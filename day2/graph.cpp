@@ -50,9 +50,7 @@ int main() {
     };
 
 
-    // ---------------------------
-    // STEP 1: Create Graph
-    // ---------------------------
+   
 
     vector<vector<int>> adj(n);
 
@@ -73,7 +71,7 @@ int main() {
 
 
     // ---------------------------
-    // STEP 2: Print Graph
+    //
     // ---------------------------
 
     cout << "Graph Adjacency List:" << endl;
