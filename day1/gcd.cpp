@@ -55,7 +55,7 @@ int maxDiffSubArrays(vector<int>& arr) {
 int main() {
 
     int n;
-
+    cout <<" ans is " ;
     cout << "Enter size of array: ";
     cin >> n;
 

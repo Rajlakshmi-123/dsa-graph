@@ -22,6 +22,8 @@ class Solution {
         if (dp[r][c][cuts] != -1)
             return dp[r][c][cuts];
 
+
+            
         long long ans = 0;
 
         for (int nr = r + 1; nr < n; nr++) {
